@@ -20,4 +20,7 @@ Expected Watch Time (YouTube 2016): https://dl.acm.org/doi/pdf/10.1145/2959100.2
 
 COLD for Pre-ranking (Alimama 2020): https://arxiv.org/pdf/2007.16122
 
+DCN V2 (Google 2020): https://arxiv.org/pdf/2008.13535
+
+
 
