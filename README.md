@@ -22,5 +22,7 @@ COLD for Pre-ranking (Alimama 2020): https://arxiv.org/pdf/2007.16122
 
 DCN V2 (Google 2020): https://arxiv.org/pdf/2008.13535
 
+PEPNet (Kuaishou 2023): https://arxiv.org/pdf/2302.01115
 
+FiBiNET (Sina Weibo 2019): https://arxiv.org/pdf/1905.09433
 
