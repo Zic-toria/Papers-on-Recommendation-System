@@ -27,3 +27,5 @@ PEPNet (Kuaishou 2023): https://arxiv.org/pdf/2302.01115
 FiBiNET (Sina Weibo 2019): https://arxiv.org/pdf/1905.09433
 
 DIN (Alimama 2018): https://arxiv.org/pdf/1706.06978
+
+SIM (Alimama 2020): https://ar5iv.labs.arxiv.org/html/2006.05639
